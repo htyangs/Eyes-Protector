@@ -1,6 +1,6 @@
-PyQt5
-opencv-python
-mediapipe
+PyQt5==5.15.5
+opencv-python==4.5.5.64
+mediapipe==0.8.9.1
 matplotlib
 pysqlite3
 numpy
