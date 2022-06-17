@@ -1,0 +1,7 @@
+PyQt5
+opencv-python
+mediapipe
+matplotlib
+pysqlite3
+numpy
+requests

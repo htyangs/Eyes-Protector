@@ -1,0 +1,12 @@
+
+build/*
+database.db
+*.png
+dist/eye.exe
+*.docx
+eye.ui
+*.pyc
+eye.spec
+panda.ico
+*.exe
+*.iss
