@@ -13,6 +13,9 @@ Since the program is built by Pyinstaller and does not certificate by an officia
 ### MacOS : download the Eye protector.exe file <a href="https://docs.google.com/uc?id=1norVbEBE5NiB0g6xhuDt7naZBAZv4uA1&confirm=t" target="_blank">here</a> and execute it. 
 1. Make the file executable by typing **chmod 755 "path to the file"** in the terminal. EX: chmod 755 /Users/alwaysmle/Downloads/eye. 
 2. Simply execute the program after changing the type of program.
+### Run Python File Directly
+1. pip install -r requirements.txt
+2. python eye.py
 ## How to use?
 ### Main program
 <p align="center">
