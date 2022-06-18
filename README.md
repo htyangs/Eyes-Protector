@@ -12,7 +12,7 @@
 1. Since the program is built by Pyinstaller and does not certificate by an official organization, the windows defender will be alert about it. Just click "trust the program" and give permission to it! [Reference](https://stackoverflow.com/questions/54733909/windows-defender-alert-users-from-my-pyinstaller-exe)
 2. If you install the program under C:\Program Files, please right click the eye.exe file and run as administrator. 
 ### MacOS : download the Eye protector.exe file <a href="https://docs.google.com/uc?id=1norVbEBE5NiB0g6xhuDt7naZBAZv4uA1&confirm=t" target="_blank">here</a> and execute it. 
-1. Allow third party application to install [tutorial](https://www.macworld.com/article/672947/how-to-open-a-mac-app-from-an-unidentified-developer.html) 
+1. Allow third party application to install in the Security & Privacy panel. [tutorial](https://www.macworld.com/article/672947/how-to-open-a-mac-app-from-an-unidentified-developer.html) 
 2. Make the file executable by typing **chmod 755 "path to the file"** in the terminal. EX: chmod 755 /Users/alwaysmle/Downloads/eye. 
 3. Simply execute the program after changing the type of program.
 ### Run Python File Directly
