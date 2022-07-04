@@ -1,5 +1,4 @@
 ## Eye-Protectors
-### help the computer users protect their eyes from eyestrain, dry eyes, and myopia.
 
 ## Feature
 ###  ⇾ ⇾ 完整中文介紹[請點這邊](https://sites.google.com/view/eyeprotector/%E9%A6%96%E9%A0%81) ⇽ ⇽
