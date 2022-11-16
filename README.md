@@ -1,4 +1,4 @@
-## Eye-Protectors  [(Homepage)](https://www.htyang.com)
+## Eye-Protectors  [(Homepage)](https://www.htyang.com/projects)
 
 ## Feature
 ###  ⇾ ⇾ 完整中文介紹[請點這邊](https://sites.google.com/view/eyeprotector/%E9%A6%96%E9%A0%81) ⇽ ⇽
