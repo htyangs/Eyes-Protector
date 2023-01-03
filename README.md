@@ -7,7 +7,7 @@
 <p/> 
 
 ## How to install
-### Windows : download the Eye protector.exe file [here](https://docs.google.com/uc?id=1d2GTmb7mZ0S3QeZbePgmKkdAYJOLIIyv&confirm=t) and execute it. 
+### Windows : download the Eye protector.exe file [here](https://docs.google.com/uc?id=12r2WWWyhLgpVB1fcmofMiVNxxdPcjXPL&confirm=t) and execute it. 
 1. Since the program is built by Pyinstaller and does not certificate by an official organization, the windows defender will be alert about it. Just click "trust the program" and give permission to it! [Reference](https://stackoverflow.com/questions/54733909/windows-defender-alert-users-from-my-pyinstaller-exe)
 2. If you install the program under C:\Program Files, please right click the eye.exe file and run as administrator. 
 ### MacOS : download the Eye protector.exe file <a href="https://docs.google.com/uc?id=1norVbEBE5NiB0g6xhuDt7naZBAZv4uA1&confirm=t" target="_blank">here</a> and execute it. 
